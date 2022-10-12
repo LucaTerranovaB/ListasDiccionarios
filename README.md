@@ -2,7 +2,7 @@
 
 # Luca Terranova
 
-# REPO PRIVADO: https://github.com/LucaTerranovaB/ListasDiccionarios.git
+
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/LucaTerranovaB/ListasDiccionarios/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/LucaTerranovaB/ListasDiccionarios/tree/main)
 
